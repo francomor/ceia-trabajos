@@ -34,4 +34,5 @@ dependencies = [
     "optuna>=4.8.0",
     "torch>=2.12.0",
     "graphviz>=0.21",
+    "xgboost>=2.0",
 ]
