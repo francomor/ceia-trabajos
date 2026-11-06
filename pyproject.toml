@@ -40,4 +40,5 @@ dependencies = [
     "opencv-python>=4.11.0.86",
     "gensim>=4.4.0",
     "gradio>=6.28.0",
+    "transformers>=5.22.1",
 ]
